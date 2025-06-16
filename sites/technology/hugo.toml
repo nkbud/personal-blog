@@ -1,0 +1,5 @@
+baseURL = '/technology/'
+languageCode = 'en-us'
+title = 'Technology - oioio.ai'
+publishDir = '../../public/technology'
+theme = 'technology-theme'

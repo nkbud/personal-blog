@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Services - oioio.ai</title>
+    <link>/services/posts/</link>
+    <description>Recent content in Posts on Services - oioio.ai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jun 2025 05:26:38 +0000</lastBuildDate>
+    <atom:link href="/services/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Services</title>
+      <link>/services/posts/welcome/</link>
+      <pubDate>Mon, 16 Jun 2025 05:26:38 +0000</pubDate>
+      <guid>/services/posts/welcome/</guid>
+      <description>This is a sample post for the services section. Replace this content with your actual services-related content.&#xA;What you&amp;rsquo;ll find here Content related to services Updates and announcements Resources and guides Stay tuned for more content!</description>
+    </item>
+  </channel>
+</rss>

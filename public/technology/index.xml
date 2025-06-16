@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Technology - oioio.ai</title>
+    <link>/technology/</link>
+    <description>Recent content in Technology on Technology - oioio.ai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jun 2025 05:26:38 +0000</lastBuildDate>
+    <atom:link href="/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Technology</title>
+      <link>/technology/posts/welcome/</link>
+      <pubDate>Mon, 16 Jun 2025 05:26:38 +0000</pubDate>
+      <guid>/technology/posts/welcome/</guid>
+      <description>This is a sample post for the technology section. Replace this content with your actual technology-related content.&#xA;What you&amp;rsquo;ll find here Content related to technology Updates and announcements Resources and guides Stay tuned for more content!</description>
+    </item>
+  </channel>
+</rss>
