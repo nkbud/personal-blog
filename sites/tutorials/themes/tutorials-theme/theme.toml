@@ -1,0 +1,8 @@
+name = "Tutorials Theme"
+license = "MIT"
+licenselink = ""
+description = "A simple theme for the tutorials section"
+min_version = "0.100.0"
+
+[author]
+  name = "oioio.ai"

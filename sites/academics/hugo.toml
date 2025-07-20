@@ -1,0 +1,5 @@
+baseURL = '/academics/'
+languageCode = 'en-us'
+title = 'Academics - oioio.ai'
+publishDir = '../../public/academics'
+theme = 'academics-theme'
