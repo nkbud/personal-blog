@@ -1,0 +1,5 @@
+baseURL = '/projects/'
+languageCode = 'en-us'
+title = 'Projects - oioio.ai'
+publishDir = '../../public/projects'
+theme = 'projects-theme'

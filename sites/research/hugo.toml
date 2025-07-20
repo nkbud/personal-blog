@@ -1,0 +1,5 @@
+baseURL = '/research/'
+languageCode = 'en-us'
+title = 'Research - oioio.ai'
+publishDir = '../../public/research'
+theme = 'research-theme'

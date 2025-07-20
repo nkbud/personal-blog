@@ -1,0 +1,17 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p>{{ .Content }}</p>
+
+{{ if .Pages }}
+<h2>Latest Posts</h2>
+{{ range .Pages }}
+<article>
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <div class="meta">{{ .Date.Format "January 2, 2006" }}</div>
+    <p>{{ .Summary }}</p>
+</article>
+{{ end }}
+{{ else }}
+<p>Welcome to the {{ .Title }} section! Content coming soon.</p>
+{{ end }}
+{{ end }}

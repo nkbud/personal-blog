@@ -1,0 +1,5 @@
+baseURL = '/tutorials/'
+languageCode = 'en-us'
+title = 'Tutorials - oioio.ai'
+publishDir = '../../public/tutorials'
+theme = 'tutorials-theme'

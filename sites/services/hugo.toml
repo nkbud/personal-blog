@@ -1,0 +1,5 @@
+baseURL = '/services/'
+languageCode = 'en-us'
+title = 'Services - oioio.ai'
+publishDir = '../../public/services'
+theme = 'services-theme'

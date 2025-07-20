@@ -1,0 +1,5 @@
+baseURL = '/hobbies/'
+languageCode = 'en-us'
+title = 'Hobbies - oioio.ai'
+publishDir = '../../public/hobbies'
+theme = 'hobbies-theme'
